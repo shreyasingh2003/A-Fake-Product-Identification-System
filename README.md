@@ -3,4 +3,7 @@ Counterfeit product identification systems can be long overdue, an imperative fa
 
 Our goal is to preserve product authenticity and act as a single point of product authentication
  between consumers.
- #FOR ALL DETAILS GO THROUGH PROJECT.PDF
+ 
+ 
+ 
+ # FOR ALL DETAILS GO THROUGH PROJECT.PDF
